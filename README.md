@@ -2,6 +2,7 @@
 This project is a replica of Toll management system which was developed as part of MS IS620- Advanced Database Management System CourseWork.
 
 Eleven tables were identified for the database consisting of-
+
  +account
  +road
  +discount_rate 
